@@ -7,7 +7,8 @@ displaycatalog-rp.md.mp.microsoft.com.akadns.net
 displaycatalog-rp-asia.md.mp.microsoft.com.akadns.net
 displaycatalog.mp.microsoft.com
 checkappexec.microsoft.com
-#microsoft.com.akadns.net
+#
+tlu.dl.delivery.mp.microsoft.com
 anycast.perf.glbdns.microsoft.com
 c.perf.glbdns.microsoft.com
 crl.microsoft.com
@@ -47,6 +48,10 @@ ctldl.windowsupdate.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 array609.prod.do.dsp.mp.microsoft.com
 array604.prod.do.dsp.mp.microsoft.com
+array809.prod.do.dsp.mp.microsoft.com
+array802.prod.do.dsp.mp.microsoft.com
+array806.prod.do.dsp.mp.microsoft.com
+disc801.prod.do.dsp.mp.microsoft.com
 cp601.prod.do.dsp.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 pti.store.microsoft.com
@@ -57,6 +62,7 @@ ris.api.iris.microsoft.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 licensing.mp.microsoft.com
 gameplay.intel.com
+gameplayapi.intel.com
 slscr.update.microsoft.com
 fg.download.windowsupdate.com.c.footprint.net
 #android___________________________
