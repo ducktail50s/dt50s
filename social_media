@@ -1,11 +1,11 @@
 www.discord.com	#discord
 discord.com	#discord
 m.discord.com	#discord
-mobile.discord.com	#discord
-0-edge-chat.facebook.com	#facebook
-1-edge-chat.facebook.com	#facebook
-2-edge-chat.facebook.com	#facebook
-3-edge-chat.facebook.com	#facebook
+mobile.discord.com 	#discord
+0-edge-chat.facebook.com 	#facebook
+1-edge-chat.facebook.com 	#facebook
+2-edge-chat.facebook.com 	#facebook
+3-edge-chat.facebook.com 	#facebook
 4-edge-chat.facebook.com	#facebook
 5-edge-chat.facebook.com	#facebook
 6-edge-chat.facebook.com	#facebook
@@ -258,8 +258,10 @@ static.ak.instagram.com	#instagram
 4-edge-chat.messenger.com	#messenger
 5-edge-chat.messenger.com	#messenger
 6-edge-chat.messenger.com	#messenger
+api.messenger.com	#messenger
 messenger.com	#messenger
 www.messenger.com	#messenger
+api.myspace.com	#myspace
 www.myspace.com	#myspace
 m.myspace.com	#myspace
 myspace.com	#myspace
@@ -278,6 +280,7 @@ m.telegram.org	#telegram
 m.web.telegram.org	#telegram
 mobile.telegram.org	#telegram
 telegram.org	#telegram
+api.twitter.com	#twitter
 www.twitter.com	#twitter
 abs.twimg.com	#twitter
 cdn.syndication.twimg.com	#twitter
